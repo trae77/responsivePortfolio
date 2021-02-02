@@ -1,0 +1,28 @@
+.contact-form{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-width: 5px ;
+    border-color: rgb(0, 11, 14);
+    border-style: solid;
+   
+}
+nav{
+    border-width: 5px ;
+    border-color: rgb(199, 203, 204);
+    border-style: solid;
+}
+.container{
+    border-width: 5px ;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+    background-color: rgb(123, 177, 238);
+}
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+  
