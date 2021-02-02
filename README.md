@@ -12,3 +12,4 @@ I learned how to link pages together and use bootstrap effectively
 
 https://trae77.github.io/responsivePortfolio/
 
+<img src="./pictures/Screenshot (7).png" alt="portfolio">
